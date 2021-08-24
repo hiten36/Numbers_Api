@@ -1,0 +1,34 @@
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(34, 34, 34);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width: 50vmin;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.box1{
+    background-color: rgb(44, 44, 44);
+    margin: 5px 0px;
+    padding: 15px;
+    border-radius: 8px;
+}
+.box1 input{
+    background-color: rgb(56, 56, 56);
+    border: none;
+}
+.box2{
+    padding: 15px;
+    background-color: rgb(44, 44, 44);
+    margin: 5px 0px;
+    border-radius: 8px;
+}
+p{
+    margin-bottom: 0;
+}
